@@ -8,5 +8,3 @@
 Seyyid313/Seyyid313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-5658663360:AAEV6zDSKer349aZR9mrtrmzVgORQygHbP0
